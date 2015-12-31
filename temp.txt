@@ -1,0 +1,32 @@
+1.驱动是否区分x86, x64；
+
+
+2.备份系统设置信息:
+2.1 当前系统的环境变量设置
+2.2 git的.config, .ssh
+
+3.备份当前可用资源(在重装系统的过程中会丢失的部分)：
+3.1 vs2012 的设置项 (va 版本)
+3.2 
+
+
+4.预备资源:
+4.1 office 2013 x86: 
+    SW_DVD5_Office_Professional_Plus_2013w_SP1_W32_ChnSimp_MLF_X19-35809.ISO
+    Microsoft Toolkit.exe
+
+4.3 wrar3.93, 硬盘分区工具, DemonToolLite4356-0091.zip, sogou_pinyin_78h.exe,驱动精灵9.0.504.1007.Portable.rar
+4.4 GoogleChrome_x86_46.0.2490.86_PortableSoft.7z （需要x64吗?）
+
+5.开发资源
+5.0 UltraEdit, Emeditor
+5.1 Java
+    jdk-7u79-windows-i386.exe (暂时不考虑i586)
+    jdk-7u79-docs-all.zip
+    eclipse-jee-mars-1-win32
+5.1 SVN & Git
+    TortoiseSVN-1.9.2.26806-x64-svn-1.9.2.msi
+    LanguagePack_1.9.2.26806-x64-zh_CN.msi
+    TortoiseGit-1.8.14.0-64bit.msi
+    TortoiseGit-LanguagePack-1.8.14.0-64bit-zh_CN.msi
+

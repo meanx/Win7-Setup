@@ -1,0 +1,71 @@
+系统环境变量
+
+COMPUTERNAME            =	ASTROB-HF-VINCE
+NUMBER_OF_PROCESSORS    =	4
+OS                      =	Windows_NT
+
+ALLUSERSPROFILE         =	C:\ProgramData
+APPDATA                 =	C:\Users\hfmq100\AppData\Roaming
+CommonProgramFiles      =	C:\Program Files\Common Files
+ComSpec                 =	C:\Windows\system32\cmd.exe
+HOMEDRIVE               =	C:
+HOMEPATH                =	\Users\hfmq100
+LOCALAPPDATA            =	C:\Users\hfmq100\AppData\Local
+PROCESSOR_ARCHITECTURE  =	x86
+ProgramData             =	C:\ProgramData
+ProgramFiles            =	C:\Program Files
+PROMPT                  =	$P$G
+PUBLIC                  =	C:\Users\Public
+SystemDrive             =	C:
+SystemRoot              =	C:\Windows
+TEMP                    =	C:\Users\hfmq100\AppData\Local\Temp
+TMP                     =	C:\Users\hfmq100\AppData\Local\Temp
+USERDOMAIN              =	ASTROB-HF-VINCE
+USERNAME                =	hfmq100
+USERPROFILE             =	C:\Users\hfmq100
+windir                  =	C:\Windows
+VS80COMNTOOLS           =	C:\Program Files\Microsoft Visual Studio 8\Common7\Tools\
+
+BOOST_ROOT              =	D:\Develop\CPP\Boost\boost_1_49_0
+LUA_ROOT                =	D:\Develop\Lua
+SQLITE_ROOT             =	D:\Develop\CPP\SQLite\SQLite 3.7.7.1\Bin
+STL_PORT                =	D:\Develop\CPP\STLport\STLport-5.2.1
+
+ANDROID_SDK_HOME        =	D:\Develop\Android
+JAVA_HOME               =	D:\Develop\Java\jdk1.7.0_79
+CLASSPATH               =	.;
+							%JAVA_HOME%/lib/dt.jar;
+							%JAVA_HOME%/lib/tools.jar
+
+Path                    =	D:\Develop\Lua/bin;
+							D:\Develop\Java\jdk1.7.0_79/bin;
+							D:\Develop\Java\jdk1.7.0_79/jre/bin;
+							D:\Develop\CPP\SQLite\SQLite 3.7.7.1\Bin;
+							C:\Windows\system32;
+							C:\Windows;
+							C:\Windows\System32\Wbem;
+							C:\Windows\System32\WindowsPowerShell\v1.0\;
+							C:\Program Files\AMD APP\bin\x86;
+							C:\Program Files\WIDCOMM\Bluetooth Software\;
+							C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;
+							C:\Program Files\EmEditor;
+							C:\Program Files\TortoiseSVN\bin;
+							C:\Program Files\TortoiseGit\bin
+PATHEXT					=	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+
+
+Path    				=	%LUA_ROOT%/bin;
+							%JAVA_HOME%/bin;
+							%JAVA_HOME%/jre/bin;
+							%SQLITE_ROOT%;
+							%SystemRoot%\system32;
+							%SystemRoot%;
+							%SystemRoot%\System32\Wbem;
+							%SystemRoot%\System32\WindowsPowerShell\v1.0\;
+							C:\Program Files\AMD APP\bin\x86;
+							C:\Program Files\WIDCOMM\Bluetooth Software\;
+							C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;
+							C:\Program Files\EmEditor;
+							C:\Program Files\TortoiseSVN\bin;
+							C:\Program Files\TortoiseGit\bin
+
